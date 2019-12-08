@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="student.inti.tuitionapplication.SplashScreen">
+
+    <item
+        android:id="@+id/nav_my_bookings"
+        android:orderInCategory="1"
+        android:title="@string/my_bookings"
+        app:showAsAction="never"
+        android:icon="@drawable/mybooking_icon_black"/>
+
+    <item
+        android:id="@+id/nav_book_class"
+        android:orderInCategory="2"
+        android:title="@string/book_class"
+        app:showAsAction="never"
+        android:icon="@drawable/timetable_icon_black"/>
+
+    <item
+        android:id="@+id/nav_profile"
+        android:orderInCategory="3"
+        android:title="@string/profile"
+        app:showAsAction="never"
+        android:icon="@drawable/profile_icon_black"/>
+
+    <item
+        android:id="@+id/nav_logout"
+        android:orderInCategory="4"
+        android:title="@string/logout"
+        app:showAsAction="never"
+        android:icon="@drawable/logout_icon_black"/>
+</menu>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TuitionApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="seat_remained">Seat Remaining: </string>
+    <string name="book_class">Book A Class</string>
+    <string name="username">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sign Up</string>
+    <string name="forgot_pwd">Forgot Password?</string>
+    <string name="my_bookings">My Bookings</string>
+    <string name="profile">View Profile</string>
+    <string name="logout">Log Out</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

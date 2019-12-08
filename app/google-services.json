@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "239016396505",
+    "firebase_url": "https://tuitionapp-45a13.firebaseio.com",
+    "project_id": "tuitionapp-45a13",
+    "storage_bucket": "tuitionapp-45a13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239016396505:android:6c5f5e81af259be77fe0c8",
+        "android_client_info": {
+          "package_name": "student.inti.tuitionapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239016396505-ihc26o83e1h9nt8oa2is6er6kf546rjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "student.inti.tuitionapplication",
+            "certificate_hash": "822d5bcaf400b66828801573bf9efa1c9f37a6f7"
+          }
+        },
+        {
+          "client_id": "239016396505-cr9hrv2bfhibrqdvfapm4jfqh3d4sbls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "student.inti.tuitionapplication",
+            "certificate_hash": "864cedaaf28d73da25ce49b24140cbb757969745"
+          }
+        },
+        {
+          "client_id": "239016396505-js92agbtkt3gut8pjg01b4c5me6i530o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaAuq2qJAvE0JRIhqqFt1-29pSAKm3nV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239016396505-js92agbtkt3gut8pjg01b4c5me6i530o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
